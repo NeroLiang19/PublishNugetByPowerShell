@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net451;net461;netstandard2.0</TargetFrameworks>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <RootNamespace>Zac.BusinessApi</RootNamespace>
+    <Version>1.0.2</Version>
+    <Authors>ljh</Authors>
+    <Product>rabbitmq .net sdk</Product>
+    <Company>深圳市中安信业创业投资有限公司</Company>
+    <Copyright>Copyright © 2020</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <Description>业务系统Api NET版SDK</Description>
+    <PackageTags>asp.net;asp.net core;rabbitmq</PackageTags>
+    <releaseNotes>
+      for full changelog, check https://github.com/zengqinglei/Zql.RabbitMq/master/readme.md#change-log
+    </releaseNotes>
+  </PropertyGroup>
+
+</Project>
